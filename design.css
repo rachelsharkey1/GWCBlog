@@ -1,0 +1,81 @@
+.nav .topnav {
+  background-color: rgb(183, 236, 238);
+  overflow: hidden;
+}
+.nav .topnav a {
+  float: left;
+  color: #F2F2F2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.nav .topnav a:hover {
+  background-color: rgb(140, 243, 243);
+  color: rgb(224, 134, 241);
+}
+.nav .topnav a.active {
+  background-color: rgb(183, 236, 238) ;
+}
+
+body {
+  background-image: url("bluebackground.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+title{
+    color: aqua;
+    text-align: center;
+    font: 500px;
+}
+
+
+  h1 {
+    color: blue;
+    font-style: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font: 400px; 
+
+  }
+
+  
+  h2 {
+      color: rgb(98, 9, 170);
+      text-decoration: underline;
+  }
+
+  p{ 
+      color: black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;  
+      text-align: left; 
+      font-size: 20px   
+  }
+
+  
+  li { color: rgb(31, 29, 32);
+    text-align: left;
+    font-size: 20px
+
+  }
+
+  
+  
+  h3 {
+      color: teal;
+      font-style: italic;
+      text-align: left;
+      font-size: 30px
+  }
+  div {
+    background: lightblue;
+    padding: 5px;
+    margin-left: 35px;
+   
+    }
+
+    img{
+      max-width: 100%;
+    }

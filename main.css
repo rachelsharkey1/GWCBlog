@@ -1,0 +1,85 @@
+.nav .topnav {
+  background-color: rgb(183, 236, 238);
+  overflow: hidden;
+}
+.nav .topnav a {
+  float: left;
+  color: #F2F2F2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.nav .topnav a:hover {
+  background-color: rgb(140, 243, 243);
+  color: rgb(224, 134, 241);
+}
+.nav .topnav a.active {
+  background-color: rgb(183, 236, 238) ;
+}
+body {
+  background-image: url("pinkbackground.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+  
+
+  h1 {
+    color: rgb(255, 6, 201);
+    font-style: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font: 400px; 
+
+  }
+
+  
+  h2 {
+      color: rgb(170, 9, 170);
+      font-style: initial;
+      text-decoration: underline;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font:350px; 
+      padding: 5px;
+
+  }
+
+
+  paragraph { 
+      color: rebeccapurple;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;  
+      text-align: left; 
+      font-style: inherit;
+      font-size: 20px;  
+  }
+
+  
+  div{
+    background: violet;
+    padding: 5px;
+    margin-left: 35px;
+   
+}
+
+  
+  
+  h5 {
+      color: teal;
+      font-style: italic;
+      text-align: left;
+      font-size: 30px;
+      font-style: inherit;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  li{
+    color: midnightblue;
+    text-align: left;
+    font-size: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+ img{
+   max-width: 100%;
+ }
